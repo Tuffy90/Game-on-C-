@@ -1,0 +1,16 @@
+*.idea
+*.vscode
+*.sln
+*.suo
+*.user
+*.userosscache
+*.opensdf
+*.sdf
+*.cache
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.ipdb
+*.iobj
+*.iml
