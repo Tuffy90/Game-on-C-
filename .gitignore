@@ -1,16 +1,14 @@
-*.idea
-*.vscode
-*.sln
-*.suo
-*.user
-*.userosscache
-*.opensdf
-*.sdf
-*.cache
+# Binaries
+*.exe
+*.o
 *.obj
-*.pdb
-*.ilk
-*.pch
-*.ipdb
-*.iobj
+
+# IDEs
+.idea/
 *.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# We keep libs/ as you wanted to publish "all", but normally they are ignored.
